@@ -1,0 +1,2 @@
+# Canny-Edge-Detection-Hough-Transform
+Implementation of The Canny edge detection and Hough Transform. The Canny edge detection method is an edge detection operator that can be used to detect a wide range of edges in any given images. The Hough transform is one of the method to extract features from the given image that has wide number of application in the field of computer vision. The basic purpose is the detect some of the imperfect or partial instances of the different shapes form the image which can be further combined to obtain much more complex feature.
